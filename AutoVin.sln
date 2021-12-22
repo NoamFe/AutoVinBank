@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoVin", "AutoVin\AutoVin.csproj", "{0608F9D5-BA63-4B1D-A8AA-4E53E920A44A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoVinChallengeTests", "AutoVinChallengeTests\AutoVinChallengeTests.csproj", "{A00E289E-3E88-4F14-BC7D-D09440064DE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0608F9D5-BA63-4B1D-A8AA-4E53E920A44A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0608F9D5-BA63-4B1D-A8AA-4E53E920A44A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0608F9D5-BA63-4B1D-A8AA-4E53E920A44A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0608F9D5-BA63-4B1D-A8AA-4E53E920A44A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A00E289E-3E88-4F14-BC7D-D09440064DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A00E289E-3E88-4F14-BC7D-D09440064DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A00E289E-3E88-4F14-BC7D-D09440064DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A00E289E-3E88-4F14-BC7D-D09440064DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EE016F1-5C7F-4F5B-A0AA-96DE83822206}
+	EndGlobalSection
+EndGlobal
